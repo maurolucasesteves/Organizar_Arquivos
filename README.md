@@ -19,7 +19,7 @@ Permissões de escrita: O diretório de destino deve permitir a criação de pas
 Como usar
 1. Clonar o repositório ou copiar o script
 Baixe o script ou clone o repositório no diretório onde deseja executar o script.
-git clone <URL-do-repositório>
+git clone https://github.com/maurolucasesteves/Organizar_Arquivos
 2. Definir diretórios de origem e destino
 No código, você precisa ajustar as variáveis pasta_origem e pasta_destino para apontar para os diretórios corretos em seu sistema:
 # Caminho para o diretório de origem onde os arquivos estão localizados
