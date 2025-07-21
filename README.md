@@ -22,8 +22,6 @@ Baixe o script ou clone o repositório no diretório onde deseja executar o scri
 git clone https://github.com/maurolucasesteves/Organizar_Arquivos
 2. Definir diretórios de origem e destino
 No código, você precisa ajustar as variáveis pasta_origem e pasta_destino para apontar para os diretórios corretos em seu sistema:
-# Caminho para o diretório de origem onde os arquivos estão localizados
-pasta_origem = 'E:\\Drive_GOOGLE'
 
 # Caminho para o diretório de destino onde os arquivos serão organizados
 pasta_destino = 'Z:\\'
@@ -55,6 +53,5 @@ Resultados Esperados
 Arquivos movidos com sucesso para pastas organizadas por tipo de arquivo.
 Subpastas vazias no diretório de origem serão removidas automaticamente.
 Tempo total de execução exibido ao final.
-Contribuições
-Sinta-se à vontade para contribuir com melhorias, novas funcionalidades ou correções. Para isso, faça um fork do repositório, crie uma branch para sua alteração e envie um pull request.
+
 
